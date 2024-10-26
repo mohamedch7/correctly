@@ -1,0 +1,3 @@
+pynput
+openai
+python-dotenv

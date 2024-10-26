@@ -37,7 +37,7 @@ For example, if you forget that your keyboard layout is set to Arabic and you st
 Run the Python script to start listening to your keyboard input:
 
 ```sh
-python script.py
+python3 script.py
 ```
 
 Correctly will start running in the background and automatically correct your typing if you use the wrong keyboard layout.

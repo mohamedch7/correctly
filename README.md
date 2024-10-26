@@ -2,6 +2,8 @@
 
 **Correctly** is an intelligent typing tool that understands your typing intent, even if you're using the wrong keyboard layout. Forget about switching languages manually—Correctly detects and corrects mistyped input, ensuring your message comes out just as you intended.
 
+https://github.com/user-attachments/assets/84d802de-d99e-4667-b545-0ca6784c5ae6
+
 ## Features
 
 - **Automatic Keyboard Layout Detection**: Detects if you're using the wrong layout and automatically corrects it.
